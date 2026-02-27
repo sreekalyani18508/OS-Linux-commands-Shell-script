@@ -44,12 +44,12 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
-
+![Image](imagess/image1.png)
 
 cat < file2
 ## OUTPUT
 
-
+![Image](imagess/image2.png)
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
